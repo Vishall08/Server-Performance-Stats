@@ -1,7 +1,6 @@
 # Server-Performance-Stats
 
 
-````markdown
 # Server Performance Stats Script
 
 A simple **Bash script** to analyze server performance stats on Linux.
@@ -22,7 +21,7 @@ A simple **Bash script** to analyze server performance stats on Linux.
    ```bash
    git clone https://github.com/<your-username>/server-stats.git
    cd server-stats
-````
+``
 
 2. Make the script executable:
 
@@ -46,4 +45,3 @@ sudo ./server-stats.sh
 
 This project is part of the [roadmap.sh DevOps projects](https://roadmap.sh/projects/server-stats).
 
-```
