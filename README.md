@@ -22,7 +22,6 @@ A simple **Bash script** to analyze server performance stats on Linux.
    git clone https://github.com/<your-username>/server-stats.git
    cd server-stats
 
-
 2. Make the script executable:
 
    ```bash
